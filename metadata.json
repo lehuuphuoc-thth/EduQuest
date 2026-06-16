@@ -1,0 +1,6 @@
+{
+  "name": "EduQuest Engine v3.0",
+  "description": "Nền tảng game hóa giáo dục thông minh (Gamified Learning Sandbox Platform) hỗ trợ 3 nhóm tài khoản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
